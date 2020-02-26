@@ -1,0 +1,22 @@
+{
+    "name": "es6-utilities",
+    "version": "1.0.1",
+    "description": "Javascript Utils With ECMAScript 6",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "y"
+    },
+    "keywords": [
+        "js",
+        "javascript",
+        "es6",
+        "ECMAScript",
+        "utils"
+    ],
+    "author": "cjiali",
+    "license": "ISC"
+}
